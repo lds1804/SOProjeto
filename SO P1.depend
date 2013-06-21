@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1371521803 source:c:\users\simone\desktop\sistema operacional p1\so p1\cpu.cpp
+	"cpu.h"
+
+1371521517 c:\users\simone\desktop\sistema operacional p1\so p1\cpu.h
+	"job.h"
+	"fila.h"
+
+1371524181 c:\users\simone\desktop\sistema operacional p1\so p1\job.h
+
+1371515053 c:\users\simone\desktop\sistema operacional p1\so p1\fila.h
+	"job.h"
+
+1371513439 source:c:\users\simone\desktop\sistema operacional p1\so p1\disco.cpp
+	"disco.h"
+
+1371513523 c:\users\simone\desktop\sistema operacional p1\so p1\disco.h
+	"job.h"
+	"fila.h"
+
+1371520325 source:c:\users\simone\desktop\sistema operacional p1\so p1\fila.cpp
+	"fila.h"
+	<iostream>
+
+1371520325 source:c:\users\simone\desktop\sistema operacional p1\so p1\job.cpp
+	"job.h"
+
+1371513661 source:c:\users\simone\desktop\sistema operacional p1\so p1\main.cpp
+	<iostream>
+	<stdio.h>
+
+1371521777 source:c:\users\simone\desktop\sistema operacional p1\so p1\memoria.cpp
+	"memoria.h"
+
+1371523031 c:\users\simone\desktop\sistema operacional p1\so p1\memoria.h
+	"job.h"
+	"fila.h"
+
+1371524131 source:c:\users\simone\desktop\sistema operacional p1\so p1\agendador.cpp
+	"agendador.h"
+
+1371523031 c:\users\simone\desktop\sistema operacional p1\so p1\agendador.h
+	"cpu.h"
+	"memoria.h"
+	"disco.h"
+	"job.h"
+
